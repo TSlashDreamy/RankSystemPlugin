@@ -1,0 +1,4 @@
+name: Rank
+version: '${project.version}'
+main: com.tslash.ranksystem.Rank
+api-version: 1.19
